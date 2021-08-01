@@ -1,0 +1,27 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "- [About](#about)\r - [Getting Started](#getting_started)\r - [Usage](#usage)\r - [Contributing](../CONTRIBUTING.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielletran89/readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielletran89/readme-generator/issues"
+  },
+  "homepage": "https://github.com/danielletran89/readme-generator#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.2",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {}
+}
